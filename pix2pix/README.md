@@ -28,7 +28,7 @@ train.py [-c <configuration file path>]
 generate.py <configuration file path> <images input folder path> <images output folder path>
 ```
 
-**[Открыть демонстрационный Jupyter Notebook в Google Colab](https://colab.research.google.com/github/jys1670/pix2pix_DLS/blob/master/pix2pix_example.ipynb)**
+**[Открыть демонстрационный Jupyter Notebook в Google Colab](https://colab.research.google.com/github/jys1670/DataScienceProjects/blob/master/pix2pix/pix2pix_example.ipynb)**
 
 Там же описаны шаги получения аниме датасета с помощью [Anime2Sketch](https://github.com/Mukosame/Anime2Sketch)
 
